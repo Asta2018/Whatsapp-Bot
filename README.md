@@ -5,7 +5,7 @@
 ## 1. Creating a New Project Folder
 ```bash
 Open Windows Explorer
-Navigate to: C:\Users\YourUsername\Whatsapp_Bot
+Navigate to: C:\Users\YourUsername\Whatsapp-Bot
 ```
 
 ## 2. Download Node.js and FFmpeg
@@ -43,7 +43,7 @@ Make sure to save the .env file in the same directory as your project
 - Save the system.js file in your project directory
 - Open your terminal and navigate to the project folder:
 ```bash
-cd Whatsapp_Bot
+cd Whatsapp-Bot
 ```
 - Initialize the project and install the required dependencies:
 ```bash
