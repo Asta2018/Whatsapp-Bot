@@ -3,7 +3,7 @@
 > Using OpenAI API with supported image generation and voice features
 
 
-# 1. Creating a New Project Folder
+## 1. Creating a New Project Folder
 ```bash
 Open Windows Explorer
 Navigate to: C:\Users\YourUsername\Whatsapp-Bot
