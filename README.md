@@ -1,8 +1,12 @@
 # Whatsapp-Bot (By SimplyLife)
 
 > **Official Guide:** [https://www.youtube.com/@SimplyLife-vps)  
-> Mendukung CPU-only / GPU systems (VPS atau lokal)
+> Using OpenAi Key With Supported IMG generate and Voice
 
-## 1. 🔧 Install Dependencies
+## 1. Creating a New Project Folder
 ```bash
-sudo apt install lshw
+Open Windows Explorer
+C:\Users\YourUsername\Whatsapp_Bot
+
+AKU MAU KELUAR BASH CODE
+## 2. ###213123
