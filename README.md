@@ -40,12 +40,12 @@ Make sure to save the .env file in the same directory as your project
 
 ## 5. Download System.js
 - [Download System.js here](https://drive.google.com/file/d/17cZyMIW5qHLF99CzK__vUBK9AU7UOPeG/view?usp=sharing)
-- Save system.js in the same directory project
-- Open terminal and go to your project by
+- Save the system.js file in your project directory
+- Open your terminal and navigate to the project folder:
 ```bash
 cd Whatsapp_Bot
 ```
-- Install Dependency
+- Initialize the project and install the required dependencies:
 ```bash
 npm init -y
 ```
@@ -53,3 +53,22 @@ npm init -y
 npm install whatsapp-web.js qrcode-terminal axios sharp form-data fluent-ffmpeg dotenv
 ```
 
+## 6. Lauch your Ai Assistant
+```bash
+node system.js
+```
+
+## 7. To stop just close your terminal / Ctrl + C
+## 8. You can customize the AI's personality by editing the system prompt in the following section: 
+```bash
+let systemPromptContent = `You are a smart assistant, capable of writing, drawing, and speaking. You communicate in both Indonesian and Javanese languages.`;
+```
+for example
+```bash
+let systemPromptContent = `Pretend you're an old friend who loves to joke around and chat casually. You are a smart assistant who can write, draw, speak in spanish and frace. Be fun, relaxed, and friendly in your responses.`;
+```
+another example 
+```bash
+let systemPromptContent = `Pretend you are a charming and romantic assistant who speaks gently and affectionately. You often use poetic expressions and compliments. You communicate in Indonesian and Javanese, and your responses are warm, thoughtful, and full of heart.`;
+```
+or You can customize it however you like, depending on your preferences.
