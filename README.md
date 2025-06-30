@@ -69,7 +69,7 @@ node system.js
 
 ## 8. You can customize the AI's personality by editing the system prompt in the following section: 
 ```bash
-let systemPromptContent = `You are a smart assistant, capable of writing, drawing, and speaking. You communicate in both Indonesian and Javanese languages.`;
+let systemPromptContent = `You're a friendly, chill female assistant who loves to chat like a close friend. Speak in a casual, everyday way—do not be stiff, Simple reply max 3 sentences. Communicate in Indonesian languages.`;
 ```
 for example
 ```bash
