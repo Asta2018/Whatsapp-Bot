@@ -13,10 +13,15 @@ Navigate to: C:\Users\YourUsername\Whatsapp_Bot
 Follow the installation instructions in my YouTube tutorial
 - [Download Node.js here](https://nodejs.org/en/download)
 - [Download FFmpeg here](https://www.gyan.dev/ffmpeg/builds/)
-- Check your version
+- After installation, restart all and reopen terminal windows to apply changes correctly
 ```bash
 node -v
+```
+```bash
 npm -v
+```
+```bash
+ffmpeg -version
 ```
 ## 3. Top up your OpenAI Credit
 
