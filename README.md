@@ -1,4 +1,4 @@
-# 🚀 Dria Node Setup (Linux AMD)
+# Whatsapp Bot (By SimplyLife)
 
 > **Official Guide:** [https://dria.co/join](https://dria.co/join)  
 > Mendukung CPU-only / GPU systems (VPS atau lokal)
