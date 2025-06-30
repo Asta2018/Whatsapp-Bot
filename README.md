@@ -59,7 +59,7 @@ npm init -y
 npm install whatsapp-web.js qrcode-terminal axios sharp form-data fluent-ffmpeg dotenv
 ```
 
-## 6. Lauch your Ai Assistant
+## 6. Start your Ai Assistant
 ```bash
 node system.js
 ```
