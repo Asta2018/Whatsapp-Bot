@@ -6,7 +6,7 @@
 ## 1. Creating a New Project Folder
 ```bash
 Open Windows Explorer
-C:\Users\YourUsername\Whatsapp_Bot
+C:\Users\YourUsername\Whatsapp_Bot ```
 
 AKU MAU KELUAR BASH CODE
 ## 2. ###213123
