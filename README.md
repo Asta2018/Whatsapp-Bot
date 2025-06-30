@@ -13,11 +13,24 @@ Navigate to: C:\Users\YourUsername\Whatsapp_Bot
 Follow the installation instructions in my YouTube tutorial
 - [Download Node.js here](https://nodejs.org/en/download)
 - [Download FFmpeg here](https://www.gyan.dev/ffmpeg/builds/)
-
+- Check your version
+```bash
+node -v
+npm -v
+```
 ## 3. Top up your OpenAI Credit
 
 - [Sign Up OpenAi here](https://auth.openai.com/create-account)
 - [Go To Billing Page here](https://platform.openai.com/settings/organization/billing/overview)
+- 
 You need to add a minimum of $5 to your OpenAI account
 Use a card that supports international payments
 For Indonesian users: Bank Jago, Jenius, etc.
+
+## 4. Make .env 
+```bash
+OPENAI_API_KEY=YourOpenAiAPIhere
+```
+
+5. 
+
