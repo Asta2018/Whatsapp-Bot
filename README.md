@@ -27,7 +27,7 @@ ffmpeg -version
 
 - [Sign Up OpenAi here](https://auth.openai.com/create-account)
 - [Go To Billing Page here](https://platform.openai.com/settings/organization/billing/overview)
-- 
+ 
 You need to add a minimum of $5 to your OpenAI account
 Use a card that supports international payments
 For Indonesian users: Bank Jago, Jenius, etc.
