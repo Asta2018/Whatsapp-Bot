@@ -32,10 +32,24 @@ You need to add a minimum of $5 to your OpenAI account
 Use a card that supports international payments
 For Indonesian users: Bank Jago, Jenius, etc.
 
-## 4. Make .env 
+## 4. Make .env file
 ```bash
 OPENAI_API_KEY=YourOpenAiAPIhere
 ```
+Make sure to save the .env file in the same directory as your project
 
-5. 
+## 5. Download System.js
+- [Download System.js here](https://drive.google.com/file/d/17cZyMIW5qHLF99CzK__vUBK9AU7UOPeG/view?usp=sharing)
+- Save system.js in the same directory project
+- Open terminal and go to your project by
+```bash
+cd Whatsapp_Bot
+```
+- Install Dependency
+```bash
+npm init -y
+```
+```bash
+npm install whatsapp-web.js qrcode-terminal axios sharp form-data fluent-ffmpeg dotenv
+```
 
